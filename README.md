@@ -21,3 +21,7 @@ To use this application, clone the repository and install the required packages.
 - Node.js
 - mySQL
 - Javascript
+
+## Video Walkthrough
+
+Link: https://watch.screencastify.com/v/NTuPys4aQtVbaE3hnM03
