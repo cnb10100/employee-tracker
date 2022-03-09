@@ -24,4 +24,4 @@ To use this application, clone the repository and install the required packages.
 
 ## Video Walkthrough
 
-Link: https://watch.screencastify.com/v/NTuPys4aQtVbaE3hnM03
+Link: https://drive.google.com/file/d/1lcPQS47WeDnBo6ocv7VgpKrALqCowahs/view
